@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mitchell Masia" >
+
+    <title>VADL | Home</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/modern-business.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<!--<body style="background-image:url('images/stardust/stardust.png');">-->
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">Vanderbilt Aerospace Design Laboratory</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="about.html">About Us</a>
+                    </li>
+                    <li>
+                        <a href="our_work.html">Our Work</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Team<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="team.html">Current Members</a>
+                            </li>
+                            <li>
+                                <a href="team.html">Alumni</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="blog-home-2.html">Our Blog</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Header Carousel -->
+    <header id="myCarousel" class="carousel slide">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <div class="fill container" style="background-image:url('images/VADL_Saucer_01.png');"></div>
+            </div>            
+            <div class="item">
+                <div class="fill" style="background-image:url('images/side_rocket_00.png');"></div>
+                <div class="carousel-caption">
+                    <h1><strong>INTREPID, BY NATURE</strong></h1>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('images/team.png');"></div>
+                <div class="carousel-caption">
+                    <h1><strong>Experienced, through effort.</strong></h1>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('images/payload.png');"></div>
+                <div class="carousel-caption">
+                    <h1><strong>Ambitious, by desire.</strong></h1>
+                    <!-- http://placehold.it/1900x1080&text=Slide Three -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
+    </header>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <!-- Marketing Icons Section -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">
+                    <strong>Welcome to the Vanderbilt Aerospace Design Laboratory</strong>
+                </h1>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-check"></i> Fearless Design</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>We solve difficult problems in fearless fashion.  Beauty and novelty are on par with form and function.  R&D, prototyping methods, structural integrity, scientific exploration, and engineering fundamentals all play integral roles in our process.  <strong>Our stove has no back-burners.</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i> Novel Implementation</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>Our process is about more than making things work.  We make things work the right way.  We use cutting-edge tools to develop solutions to some of the world's hardest problems.  We iterate through designs until we decide on something worth building. <strong>We build it right, or not at all.</strong> </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-compass"></i> Ambitious Engineers</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>Our team is comprised of the best Vanderbilt has to offer.  Our alumni are some of the prominent engineers in the nation, and the current members commit to upholding a tradition of excellence.  We are students, scientists, engineers, and pioneers.  <strong>We take the heat, and stay in the kitchen.</strong></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Portfolio Section -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="page-header"><strong>Science Meets Engineering</strong></h2>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <img class="img-responsive img-portfolio img-hover" src="images/engine_00.jpg" alt="">
+            </div>
+            <div class="col-md-4 col-sm-6">
+                 <img class="img-responsive img-portfolio img-hover" src="images/group.jpg" alt="">
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <img class="img-responsive img-portfolio img-hover" src="images/launch_pad.jpg" alt="">
+            </div>
+            <!-- http://placehold.it/700x450" --> 
+        </div>
+        <!-- /.row -->
+
+        <!-- Features Section -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="page-header"><strong>A Tradition of Excellence</strong></h2>
+            </div>
+            <div class="col-md-8">
+                <p><blockquote>Innovation is in our blood.  We need more than college courses to be fulfilled.  The fundamentals are essential, but even more important is learning how to make- how to create something of nothing.  Every year we tackle HUGE problems with a small team, and every year
+                we strive to develop advanced solutions that extend what we learn in lecture.  Being a part of the Vanderbilt Aerospace Club is an experience that so few are lucky to have, but one that shapes us into pioneers, ambitious enough to take on problems others won't.  This club is greater than us,
+                it represents a tradition of excellence and effort.  Upon embarking on our mission, we launch into the unknown.  Once we touchdown safely, we are far more prepared to innovate for the rest of our lives. <br><br> -Anonymous Club Alumni</blockquote></p>
+            </div>
+            <div class="col-md-4">
+                <img class="img-responsive" src="images/up.png" alt="">
+                <!-- http://placehold.it/700x450 -->
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Vanderbilt University 2015</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Script to Activate the Carousel -->
+    <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
+
+</body>
+
+</html>

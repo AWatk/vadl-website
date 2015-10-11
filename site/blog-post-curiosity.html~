@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mitchell Masia" >
+
+    <title>Blog | Curiosity</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/modern-business.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">Vanderbilt Aerospace Design Laboratory</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active">
+                        <a href="about.html">About Us</a>
+                    </li>
+                    <li>
+                        <a href="our_work.html">Our Work</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Team<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="team.html">Current Members</a>
+                            </li>
+                            <li>
+                                <a href="alumni.html">Alumni</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="blog-home-2.html">Our Blog</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header"><strong>Curiosity</strong>
+                    <small>by Andrew Voss
+                    </small>
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="index.html">Home</a>
+                    </li>
+                    <li class="active">Curiosity</li>
+                </ol>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Content Row -->
+        <div class="row">
+
+            <!-- Blog Post Content Column -->
+            <div class="col-lg-8">
+
+                <!-- Blog Post -->
+
+                <hr>
+
+                <!-- Date/Time 
+                <p><i class="fa fa-clock-o"></i> Posted on August 24, 2013 at 9:00 PM</p>
+
+                <hr> -->
+
+                <!-- Preview Image -->
+                <img class="img-responsive" src="images/curiosity.jpg" alt="">
+
+                <hr>
+
+                <!-- Post Content -->
+                <p class="lead">Equipped with 180 lbs. of scientific instruments and seventeen cameras, NASA’s Curiosity rover is currently exploring the Gale Crater on Mars’s surface. The Curiosity Rover was launched on November 26, 2011 aboard an Atlas V rocket.   After an 8 month journey, Curiosity landed on the surface of Mars on August 6, 2012.   Weighing in at about the size of a car, the Curiosity rover is accomplishing a variety of mission objectives that range from searching for the chemical building blocks of life on Mars’s surface to quantifying the surface radiation exposure Mars receives from the sun.  All eight of Curiosity’s mission objective boil down to investigating the potential for past and future life on Mar’s surface- and the discoveries to date have been extremely promising.</p>
+                <p>After drilling into the surface of Mars and analyzing the soil composition of the Red Planet, Curiosity found what are known to be the key ingredients of life: Carbon, Hydrogen, Oxygen, Phosphorus, and Sulfur.  This evidence is conclusive that Mars has the chemistry required to support microbial life.  Beyond this, Curiosity has found indisputable evidence of flowing water on the surface of Mars.  This discovery came through images of ancient streambeds in the area Curiosity is exploring, and through the analysis of the gravel rocks in these streambeds that display the smoothing influence of flowing water.  The combination of these two pieces of evidence has led NASA’s scientists to believe that billions of years in the past, Mars may have had all the necessary pieces to nurture abundant life.</p>
+                <p>Curiosity is the 4th rover to successfully explore the surface of Mars, following the Sojourner, Spirit, and Opportunity rovers all part of NASA missions.  Spirit and Opportunity were both launched to Mars in 2003 as a part of the Mars Exploration Rover Mission.  The rovers were sent to opposite sides of the planet to explore rocks and soil in hopes of finding evidence of previous water on Mars.  While both rovers had missions planned for 90 Martian days, the mission was extended to nearly 20 times this length, and the Opportunity rover is still roaming the surface today.</p>
+                <p>The Curiosity rover is an upgrade on these rovers in both size and technology, having over 4 times the mass of Spirit and Opportunity rovers.   The Curiosity Rover is powered by a radioisotope thermoelectric generator capable of providing the rover and its instruments with 9 Megajoules a day, an upgrade from the 2.1 Megajoules provided by the solar arrays on Spirit and Curiosity.  As technology continues to evolve, next generation rovers will see an even higher increase in power density and will be capable of mission objectives not possible by even Curiosity. </p>
+                <p>As Curiosity continues to explore the surface of Mars, we hope to find new information on the safety of manned missions to Mars, which are planned in the next 20 years.  Curiosity’s Radiation Assessment Detector has discovered that surface radiation on Mars is comparable to that experienced by astronauts in the International Space Station, a finding that ensures the safety of Mars’s future human explorers.  Curiosity’s findings have been of vital importance in exploring if Mars has indeed housed life in the past and if it will be friendly to life in the future.</p>
+
+					 <br>
+					 
+					 <p>More info and current news can be found <a href="http://www.nasa.gov/mission_pages/msl/index.html#.VHTfsIvF9UU">here</a>.</p>
+
+                <hr>
+
+            </div>
+
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Vanderbilt University 2015</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
